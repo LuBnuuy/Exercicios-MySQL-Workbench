@@ -1,0 +1,97 @@
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Addres AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+
+26. Listar clientes com `City` diferente de &quot;London&quot; e ordenar por
+`CustomerID`.
+
+27. Selecionar todos os clientes ordenados por `ContactName` em ordem
+crescente.
+
+28. Selecionar todos os clientes em &quot;Canada&quot; e ordenar por
+`PostalCode` e
+`CustomerName`.
+
+29. Selecionar todos os clientes cujo `CustomerName` contém
+&quot;Global&quot; e
+ordenar por `Country`.
+
+30. Selecionar todos os clientes onde o `Country` começa com &quot;I&quot; e
+ordenar por
+`City`.
+
+31. Selecionar clientes onde `CustomerName` começa com &quot;T&quot; e
+ordenar por
+`ContactName` em ordem decrescente.
+
+32. Selecionar clientes onde o `City` é &quot;Chicago&quot; e ordenar por
+`PostalCode`.
+
+33. Selecionar clientes no `Country` &quot;Italy&quot; e ordenar por
+`CustomerName` e
+`ContactName`.
+
+34. Selecionar clientes cujo `CustomerName` começa com &quot;B&quot; e
+ordenar por
+`CustomerID` em ordem crescente.
+
+35. Listar todos os clientes cujo `City` termina com &quot;o&quot; e ordenar por
+`Country`.
+
+36. Selecionar todos os clientes em &quot;Brazil&quot; e ordenar por
+`PostalCode` e
+`CustomerName`.
+
+37. Selecionar clientes onde `PostalCode` começa com &quot;9&quot; e ordenar
+por
+`CustomerName` em ordem decrescente.
+
+38. Selecionar todos os clientes onde o `CustomerName` contém
+&quot;Services&quot; e
+ordenar por `ContactName`.
+
+39. Selecionar clientes onde o `Country` é &quot;Spain&quot; e ordenar por
+`City`.
+
+40. Selecionar todos os clientes onde `City` começa com &quot;A&quot; e
+ordenar por
+`CustomerName` e `Country`.
+
+41. Selecionar clientes cujo `ContactName` termina com &quot;e&quot; e
+ordenar por
+`PostalCode`.
+
+42. Selecionar todos os clientes onde `CustomerName` contém
+&quot;Group&quot; e
+ordenar por `Country` em ordem crescente.
+
+43. Selecionar clientes onde `Country` termina com &quot;n&quot; e ordenar por
+`CustomerName` em ordem decrescente.
+
+44. Selecionar clientes cujo `City` começa com &quot;L&quot; e ordenar por
+`CustomerID`.
+
+45. Selecionar clientes no país &quot;Japan&quot; e ordenar por `PostalCode`
+em ordem
+decrescente.
+
+46. Selecionar clientes cujo `PostalCode` termina em &quot;5&quot; e ordenar
+por
+`CustomerName` e `City`.
+
+47. Selecionar todos os clientes em &quot;Germany&quot; e ordenar por `City`.
+
+48. Selecionar clientes onde o `CustomerName` começa com &quot;C&quot; e
+ordenar por
+`Country` e `ContactName`.
+
+49. Selecionar todos os clientes cujo `ContactName` contém &quot;king&quot; e
+ordenar
+por `CustomerID`.
+
+50. Selecionar clientes onde `PostalCode` começa com &quot;3&quot; e ordenar
+por
+`CustomerName` e `Country`.
